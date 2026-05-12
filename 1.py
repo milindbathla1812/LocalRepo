@@ -17,6 +17,3 @@ def greet(person):
 
 print(greet(name))
 # This is the end of the script. You can run it to see the output.
-a=10
-b=20
-print("The sum of a and b is:", a + b)
